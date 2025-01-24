@@ -28,5 +28,5 @@ R8: If a player lands on "Suspension" (and they are not suspended), then they ar
   <a href="https://github.com/user-attachments/files/18536600/Schema.pdf">
     <img width="500" alt="Schema" src="https://github.com/user-attachments/assets/9086b725-9e41-420b-ad21-b528468fc47e" />
   </a>
+  <img width="250" alt="Another Image" src="https://github.com/user-attachments/assets/e7ed89c9-e585-426c-80c3-cae4e8cfa6ab" />
 </div>
-
