@@ -22,5 +22,5 @@ R7: If a player lands on a "RAG" or "Hearing" location, the action described by 
 R8: If a player lands on "Suspension" (and they are not suspended), then they are classed as "Visiting", and no action is taken (there is a visiting space for this purpose).
 
 
-![UnderstandingDBCW drawio](https://github.com/user-attachments/assets/6c92ff0b-1282-42ed-a085-144780fba49d)
 
+<img width="697" alt="Screenshot 2025-01-24 at 1 55 21 PM" src="https://github.com/user-attachments/assets/b3b8a123-6111-4567-8cce-d8c61e843845" />
